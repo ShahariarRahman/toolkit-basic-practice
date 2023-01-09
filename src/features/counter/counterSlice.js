@@ -9,3 +9,5 @@ const countSlice = createSlice({
     initialState,
     reducers: {},
 });
+
+export default countSlice.reducer;
